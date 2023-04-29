@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad6_NayelyGilesValdez</string>
+    <string name="golLocal">Goles: Local</string>
+    <string name="golVisitante">Goles: Visitante</string>
+</resources>
